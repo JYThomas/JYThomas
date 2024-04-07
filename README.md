@@ -2,7 +2,7 @@
 <p>I'm currently a postgraduate student at <strong>Guangxi University of Science and Technology</strong> in Liuzhou,Guangxi,China. My major is Cybersecurity, but I prefer to call myself as a Software Engineer Maybe, due to my work is always coding in the eyes of my friends，heihei. By the way Coding is fun, but try: bug except: is annoyed </p>
 
 <p>Don't forget to do something else you love except your work🍌 🍌 🍌</p>
-<img align="right" width="100px" height="70px src="https://github.com/JYThomas/JYThomas/assets/44361034/3e67ae34-d00f-4466-ad9a-77bf6a1b1d5a" />
+<img align="right" width="300px" height="170px src="https://github.com/JYThomas/JYThomas/assets/44361034/3e67ae34-d00f-4466-ad9a-77bf6a1b1d5a" />
 <h2>⚡️ A Few Quick Facts</h2>
 
 <ul>
