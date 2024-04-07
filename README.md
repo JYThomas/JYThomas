@@ -1,4 +1,6 @@
-<img align="right" src="https://github.com/JYThomas/JYThomas/assets/44361034/3e67ae34-d00f-4466-ad9a-77bf6a1b1d5a" />
+<img align="right" margin-bottom="30px" src="https://github.com/JYThomas/JYThomas/assets/44361034/3e67ae34-d00f-4466-ad9a-77bf6a1b1d5a" />
+<h2>--------------------------------------------------------------------------------------------------------</h2>
+
 <h2>Hello 👋, I'm ThomasJY</h2>
 <p>I'm currently a postgraduate student at <strong>Guangxi University of Science and Technology</strong> in Liuzhou,Guangxi,China. My major is Cybersecurity, but I prefer to call myself as a Software Engineer Maybe, due to my work is always coding in the eyes of my friends，heihei. By the way Coding is fun, but try: bug except: is annoyed </p>
 
