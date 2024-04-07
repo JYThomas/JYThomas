@@ -10,7 +10,7 @@
 <li>🔭 I’m currently busy for my paper which is needed for my Master's degree.</li>
 <li>🧐 Learning about <strong>Golang</strong>, <strong>Docker</strong>, and <strong>Backend development</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/JYThomas">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://">my blog</a>.</li>
+<li>📝 I <del>regulary</del> write articles on <a href="https://jythomas.github.io">my blog</a>.</li>
 <li>💬 Mail: <strong>tuomasijy@gmail.com</strong>、<strong>1741686609@qq.com</strong>.</li>
 <li>🎉 Fun Fact: A Programmer who loves playing football, RW on the pitch。😄👉🐑⚽️, 🐑⭕️</li>
 </ul>
