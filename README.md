@@ -2,10 +2,9 @@
 <p>I'm currently a postgraduate student at <strong>Guangxi University of Science and Technology</strong> in Liuzhou,Guangxi,China. My major is Cybersecurity, but I prefer to call myself as a Software Engineer Maybe, due to my work is always coding in the eyes of my friends，heihei. By the way Coding is fun, but try: bug except: is annoyed </p>
 
 <p>Don't forget to do something else you love except your work🍌 🍌 🍌</p>
-
-
-
+<img align="right" src="https://github.com/JYThomas/JYThomas/assets/44361034/3e67ae34-d00f-4466-ad9a-77bf6a1b1d5a" />
 <h2>⚡️ A Few Quick Facts</h2>
+
 <ul>
 <li>🔭 I’m currently busy for my paper which is needed for my Master's degree.</li>
 <li>🧐 Learning about <strong>Golang</strong>, <strong>Docker</strong>, and <strong>Backend development</strong>.</li>
@@ -30,6 +29,7 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
-
 <img src="https://github-readme-stats.vercel.app/api?username=JYThomas&show_icons=true&count_private=true" alt="JYThomas" />
+
+
 
