@@ -1,5 +1,5 @@
 <h2>Hello 👋, I'm ThomasJY</h2>
-<p>I'm currently a postgraduate student at <strong>Guangxi University of Science and Technology</strong>in 🌁 Liuzhou,Guangxi,China. My major is Cybersecurity, but I prefer to call myself as a Software Engineer Maybe, due to my work is always coding in the eyes of my friends，heihei. By the way Coding is fun, but try: bug except: is annoyed </p>
+<p>I'm currently a postgraduate student at <strong>Guangxi University of Science and Technology</strong> in Liuzhou,Guangxi,China. My major is Cybersecurity, but I prefer to call myself as a Software Engineer Maybe, due to my work is always coding in the eyes of my friends，heihei. By the way Coding is fun, but try: bug except: is annoyed </p>
 
 <p>Don't forget to do something else you love except your work🍌 🍌 🍌</p>
 
